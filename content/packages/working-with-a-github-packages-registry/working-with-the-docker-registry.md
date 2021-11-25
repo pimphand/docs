@@ -83,7 +83,7 @@ To use this example login command, replace `USERNAME` with your {% data variable
 
 For more information, see "[Docker login](https://docs.docker.com/engine/reference/commandline/login/#provide-a-password-using-stdin)."
 
-## Publishing an image
+## Publishing an images
 
 {% data reusables.package_registry.docker_registry_deprecation_status %}
 
